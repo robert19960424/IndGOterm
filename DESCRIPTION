@@ -1,0 +1,14 @@
+Package: IndGOterm
+Type: Package
+Title: Tools for filtrating dysregulation terms from personalized patient
+Version: 1.0.0
+Author: Jiashuai Zhang
+Maintainer: Jiashuai Zhang <zjs772835346@163.com>
+Depends:R (>= 3.5.0)
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: data.table , parallel
+RoxygenNote: 7.1.1
